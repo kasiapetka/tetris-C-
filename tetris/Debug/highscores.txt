@@ -1,4 +1,0 @@
-1 Kasia 60
-2 Ola 30
-3 Filip 20
-4 Rafa³ 10
