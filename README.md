@@ -1,2 +1,2 @@
-# tetris-C-
+# tetris C++
 Game tetris in C++ 
