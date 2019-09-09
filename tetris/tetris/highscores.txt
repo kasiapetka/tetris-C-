@@ -1,0 +1,5 @@
+1 Kuba 120
+2 Kasia 70
+3 Filip 60
+4 Rafa³ 30
+5 Maja 20
